@@ -43,7 +43,7 @@ a {
 }
 
 a:hover {
-    color: #f9ed32
+    color: #FBB040;
 }
 
 /* Home Content */
@@ -248,7 +248,7 @@ footer {
 }
 
 .social-icons i:hover {
-    color: #f9ed32;
+    color: #FBB040;
     cursor: pointer;
 }
 
