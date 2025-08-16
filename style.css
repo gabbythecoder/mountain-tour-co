@@ -56,6 +56,7 @@ a:hover {
     background-repeat: no-repeat;
     background-position: center;
     height: 45rem;
+    position: relative;
 }
 
 .home-content-text {
@@ -92,6 +93,18 @@ button {
 
 button:hover {
     background-color: #FBB040;
+}
+
+.overlay-text {
+    position: absolute;
+    bottom: 1rem;
+    right: 1rem;
+    background-color: black;
+    opacity: 0.8;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    font-family: 'Albert Sans', sans-serif;
 }
 
 /* Tour Content */

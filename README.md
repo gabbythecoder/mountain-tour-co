@@ -1,8 +1,44 @@
 # Website Build Assignment 
 
-Week 1 assignment.
+Week 1 assignment - Build out the Website.
 
 Created a fictional website titled Mountain Tour Co. as part of the Tech Educators course.
 
 Website built on VSCode using HTML and CSS. 
+
+I have managed to complete all the requirements needed for this assignment:
+* Each section on the webpage is wrapped in correct semantic tags. I have included a header with a nav bar, a main section and a footer.
+* I have used CSS absolute positioning to overlay text on an image. I used this in the home content section, which you can see on the bottom right of the background image. 
+* I used flexbox throughout the website to create a responsive layout. 
+* All image elements are implemented correctly with the right file path. 
+
+After completing the requirements, I did want to challenge myself and take on the stretch requirements: 
+* A back-to-top button was created to bring the website to the top.
+* I have added smooth scroll behaviour to improve user experience.
+* Hover effects was added on the nav bar, 'Book Now' button, social media icons that is located in the footer and the back-to-top button.
+* I added social media icons that are linked to social media pages when clicked in the footer of the website.
+* Background music has been added and it will autoplay when the website loads. 
+
+During the website build process, I did encounter some difficulties, especially when using flexbox in the tour section and adding the back-to-top button. With the tour section, the layout I planned was to have the section centered but it initially was placed more to the left. After numerous attempts of changing up the codes, I realised I needed an extra div element which fixed my issue. With the back-to-top button, it initially did not show up but when I was added a background colour, the arrow was white, which is why I was not able to see it initially. 
+
+After many trial and errors, the website is completed. When I needed assistance, I reached out 
+to my fellow bootcampers, who were really helpful. YouTube and Google were also a lifesaver. 
+
+I have linked the websites and YouTube tutorials that I found helpful during this assignment:
+* https://www.w3schools.com/icons/fontawesome_icons_intro.asp 
+* https://www.youtube.com/watch?v=Hskt1jN7JTc&ab_channel=dcode
+* https://www.youtube.com/watch?v=fYGe-SuFAHU&t=78s&ab_channel=TylerPotts
+* https://www.w3schools.com/html/html5_audio.asp
+
+For the photos, I used Unsplash and have credited the people below:
+* Home Content (Moraine Lake) - Photo by Andy Holmes on Unsplash banner
+* Banff Gondola - Photo by Hayffield L on Unsplash banff gondola
+* Moraine Lake - Photo by Chi Liu on Unsplash moraine lake
+* Icefields Parkway - Photo by Chi Liu on Unsplash moraine lake
+* Takakkaw Falls - Photo by Gene Dizon on Unsplash takakkaw falls
+
+Enjoy the website! 
+
+
+
 
