@@ -34,7 +34,7 @@ For the photos, I used Unsplash and have credited the people below:
 * Home Content (Moraine Lake) - Photo by Andy Holmes on Unsplash banner
 * Banff Gondola - Photo by Hayffield L on Unsplash banff gondola
 * Moraine Lake - Photo by Chi Liu on Unsplash moraine lake
-* Icefields Parkway - Photo by Chi Liu on Unsplash moraine lake
+* Icefields Parkway - Photo by Stuart Davies on Unsplash 
 * Takakkaw Falls - Photo by Gene Dizon on Unsplash takakkaw falls
 
 Background music:
